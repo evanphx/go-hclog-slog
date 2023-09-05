@@ -1,6 +1,6 @@
 ## go-hclog-slog
 
-This is a go module that allows [hclog](github.com/hashicorp/go-hclog) to be used with
+This is a go module that allows [hclog](https://github.com/hashicorp/go-hclog) to be used with
 [slog](https://pkg.go.dev/golang.org/x/exp/slog), a structured logging module that will be
 included in Go 1.21 standard library.
 
