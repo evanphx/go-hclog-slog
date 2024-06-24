@@ -1,7 +1,7 @@
 ## go-hclog-slog
 
 This is a go module that allows [hclog](https://github.com/hashicorp/go-hclog) to be used with
-[slog](https://pkg.go.dev/golang.org/x/exp/slog), a structured logging module that will be
+[slog](https://pkg.go.dev/log/slog), a structured logging module that is
 included in Go 1.21 standard library.
 
 To create a slog logger from an existing `hclog.Logger` value:
